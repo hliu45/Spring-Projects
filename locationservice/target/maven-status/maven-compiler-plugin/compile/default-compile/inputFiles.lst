@@ -1,0 +1,9 @@
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/model/FaultCode.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/controller/LocationServiceRestController.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/service/impl/LocationServiceImpl.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/model/Location.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/model/LocationRepository.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/LocationServiceApplication.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/model/UnitInfo.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/service/LocationService.java
+/home/teacher/IdeaProjects/locationservice/src/main/java/com/spring/lyft/model/UnitFault.java

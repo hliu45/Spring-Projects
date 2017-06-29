@@ -1,0 +1,11 @@
+com/spring/lyft/model/UnitInfo.class
+com/spring/lyft/service/LocationService.class
+com/spring/lyft/model/UnitFault.class
+com/spring/lyft/LocationServiceApplication.class
+com/spring/lyft/service/impl/LocationServiceImpl.class
+com/spring/lyft/model/FaultCode.class
+com/spring/lyft/model/LocationRepository.class
+com/spring/lyft/controller/LocationServiceRestController.class
+com/spring/lyft/model/Location$GpsStatus.class
+com/spring/lyft/model/Location.class
+com/spring/lyft/model/Location$VehicleMovementType.class
